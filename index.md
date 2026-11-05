@@ -11,7 +11,7 @@ Teaching modeling with AI. Predict, verify, validate, disclose: students learn t
 
 And sometimes, not very often, I paddle.
 
-![OC 1 with Sonson](image4.jpeg)
+ <img src="image4.jpeg" width="200" alt="Alternative text description">
 
 ## How I work
 
