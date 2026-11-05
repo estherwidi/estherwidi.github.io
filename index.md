@@ -15,6 +15,13 @@ The math and the people it involves are one process.
 Community partners' knowledge comes first, and data governance is written down, not assumed.
 Models are built so they can fail against the data, and results go back to the people who live with the system.
 
+```mermaid
+flowchart LR
+    D[Data] -->|structure| M[Model]
+    M -->|analysis| T[Math]
+    T -->|predictions| D
+```
+
 ## Find me
-UH West Oʻahu faculty profile
-PhD, University of Minnesota, 2010
+
+[Faculty profile](https://westoahu.hawaii.edu/facultyprofiles/user/widiasih)
