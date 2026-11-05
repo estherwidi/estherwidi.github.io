@@ -13,15 +13,9 @@ Teaching modeling with AI. Predict, verify, validate, disclose: students learn t
 
 The math and the people it involves are one process.
 Community partners' knowledge comes first, and data governance is written down, not assumed.
-Models are built so they can fail against the data, and results go back to the people who live with the system.
-
-```mermaid
-flowchart LR
-    D[Data] -->|structure| M[Model]
-    M -->|analysis| T[Math]
-    T -->|predictions| D
-```
+A good model can fail against the data, and it also gives the data a story: it turns measurements into an understanding of how the system works.
 
 ## Find me
 
-[Faculty profile](https://westoahu.hawaii.edu/facultyprofiles/user/widiasih)
+* [Faculty profile](https://westoahu.hawaii.edu/facultyprofiles/user/widiasih)
+* https://estherwidi.github.io/
