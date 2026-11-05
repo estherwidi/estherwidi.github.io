@@ -7,7 +7,9 @@ Mathematician at the University of Hawaiʻi West Oʻahu. I build dynamical syste
 Conceptual climate models. Energy balance models, ice-line dynamics, glacial cycles and nonsmooth systems, including the Budyko–Widiasih model.
 Hawaiian fishponds. Dissolved-oxygen models driven by light, wind and tide, built with community partners and tested on long sensor records.
 Resilience to recurring disturbance. Flow-kick dynamics for restoration work in tidally driven systems.
-Teaching modeling with AI. Predict, verify, validate, disclose: students learn to check AI-written code against what must be true.
+Teaching modeling with AI. Predict, verify, validate, disclose: students learn to check AI-written code against what must be true. 
+
+And sometimes, not very often, I paddle.
 
 ## How I work
 
