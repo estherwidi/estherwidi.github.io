@@ -11,6 +11,8 @@ Teaching modeling with AI. Predict, verify, validate, disclose: students learn t
 
 And sometimes, not very often, I paddle.
 
+![OC 1 with Sonson](image4.jpeg)
+
 ## How I work
 
 The math and the people it involves are one process.
