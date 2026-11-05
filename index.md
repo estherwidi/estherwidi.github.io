@@ -1,4 +1,4 @@
-Esther Widiasih
+## Esther Widiasih
 
 Mathematician at the University of Hawaiʻi West Oʻahu. I build dynamical systems models that give structure to data, and I work with the people who know the systems best.
 
